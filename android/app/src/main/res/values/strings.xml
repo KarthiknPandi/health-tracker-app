@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health Tracker App</string>
+
+
+    <string name="facebook_app_id">1054534272790677</string>
+    <string name="facebook_client_token">a54a38d1c018ee6da1bb96bec0d08301</string>
+</resources>
