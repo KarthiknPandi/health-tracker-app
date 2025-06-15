@@ -91,6 +91,6 @@ Cloud Firestore is used to store:
 
 Firestore collections:
 
-questionnaires — stores form data per user
-health_data — stores synced health metrics per user UID
+* questionnaires — stores form data per user
+* health_data — stores synced health metrics per user UID
 
