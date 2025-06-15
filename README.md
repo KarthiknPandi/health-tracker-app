@@ -57,16 +57,16 @@ Cloud Firestore is used to store:
 
 🔧 Setup Instructions
 
-Clone the repository
-git clone https://github.com/your-username/flutter-health-tracker-app.git
-Install dependencies
-flutter pub get
-Firebase setup
-Add your google-services.json in the android/app/ folder.
-Add your GoogleService-Info.plist in the ios/Runner/ folder.
-Set up Facebook app ID and secret in Firebase Auth settings and in your project files.
-Run the app
-flutter run
+- Clone the repository
+- git clone https://github.com/your-username/flutter-health-tracker-app.git
+- Install dependencies
+- flutter pub get
+- Firebase setup
+- Add your google-services.json in the android/app/ folder.
+- Add your GoogleService-Info.plist in the ios/Runner/ folder.
+- Set up Facebook app ID and secret in Firebase Auth settings and in your project files.
+- Run the app
+- flutter run
 
 
 📲 Permissions Used
@@ -80,12 +80,12 @@ flutter run
 
 🗂 Firebase Collections
 
-questionnaires
-Document ID: user.uid
-Stores all questionnaire responses for each user.
-health_data
-Document ID: user.uid
-Stores latest health metrics synced from Health Connect or HealthKit.
+- questionnaires
+- Document ID: user.uid
+- Stores all questionnaire responses for each user.
+- health_data
+- Document ID: user.uid
+- Stores latest health metrics synced from Health Connect or HealthKit.
 
 🔐 Firebase Schema
 
